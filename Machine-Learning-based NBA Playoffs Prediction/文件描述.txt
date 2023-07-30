@@ -1,0 +1,18 @@
+文件描述：
+
+数据科学概论 分析报告.pdf				分析报告
+
+数据科学概论 展示文档.pptx				展示文档
+
+test1.xlsx					从basketball reference上爬取下来的数据集
+
+teststd.xlsx					数据标准化后的test1.xlsx
+
+playoffs.xlsx					用于预测季后赛的数据集
+
+teststd3.xlsx					用于训练层次聚类的数据集
+
+PCA + Random Forest + Neural Network.ipynb	用于模型训练的代码
+
+Hierarchical Clustering.ipynb			用于层次聚类的代码
+		
