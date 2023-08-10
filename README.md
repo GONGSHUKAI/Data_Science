@@ -6,6 +6,6 @@
 > Data Science Learning Notes
 >> GONG DATA SCIENCE NOTEBOOK.ipynb
 >>> 数据科学的数学基础、数据科学的统计原则、可视化方法
-> Introduction to Data Science.pdf
->> 数据科学自学笔记
->> 数据科学的数学基础、数据科学的统计原则、可视化方法、数据挖掘和机器学习、人工智能
+>> Introduction to Data Science.pdf
+>>> 数据科学自学笔记
+>>> 数据科学的数学基础、数据科学的统计原则、可视化方法、数据挖掘和机器学习、人工智能
